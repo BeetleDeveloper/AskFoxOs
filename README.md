@@ -6,12 +6,11 @@ This script comes with an easy to use installer as well as a wide range of featu
 This script comes with multiple themes, which can easily be changed under the “Theme Name” setting, within the admin area. Please see the “Themes” section in the provided documentation for more information.
 
 This script was designed and developed  for FirefoxOS and is completely object oriented PHP. “AskFoxOs” currently uses the standard MySQL protocols but the next update will be all MySQLi, which is more efficient. However, the installer will detect if MySQLi is installed but will also use MySQL if MySQLi Is not found.
-
-#AskFoxOS
-=====================================================================
+#BeetleRoms
+==============================
 Software Version	PHP 4.x, PHP 5.x, MySQL 4.x, MySQL 5.x
-=====================================================================
-###Main Features
+#Main Features
+==============================
 
 - Easy to Use and Integrate, just run the installation wizard
 - Administration Panel
@@ -58,11 +57,10 @@ Software Version	PHP 4.x, PHP 5.x, MySQL 4.x, MySQL 5.x
 - CRUD Categories
 - CRUD Questions and Answers
 - See All Reported Questions and Answers
-======================================================================
 #Installation and Configuration
-=====================================================================
+==============================
 Please see the provided documentation on how to install and configure.
-======================================================================
+
 #AskFoxOs jdlandazaball@gmail.com / forum.beeltedeveloper.tk / AskfoxOs.tk / descargasbeetle.tk
 ======================================================================
 #by
