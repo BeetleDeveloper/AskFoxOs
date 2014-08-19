@@ -1,0 +1,11 @@
+RewriteEngine On
+RewriteBase /
+ErrorDocument 404 /not-found.html
+RewriteCond %{HTTP_HOST} ^(http://askfoxos.tk/)(:80)? [NC]
+RewriteRule ^(.*) http://askfoxos.tk/$1 [R=301,L]
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule ^(.*)$ $1.php
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}.html -f
+RewriteRule ^(.*)$ $1.html

@@ -1,0 +1,25 @@
+Options +FollowSymLinks
+RewriteEngine On
+RewriteBase /
+
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule ^(.*)$ $1.php
+
+DirectoryIndex index.php
+
+# Questions
+# RewriteRule ^question/?$ question.php
+# RewriteRule ^question/([a-zA-Z0-9^-]+)/([a-zA-Z0-9^-]+).html$ question.php?category=$2&title=$3
+RewriteRule ^([a-zA-Z0-9^-]+)/([a-zA-Z0-9^-]+).html$ question.php?category=$1&title=$2
+RewriteRule ^([a-zA-Z0-9^-]+)/?$ search.php?category=$1&search=
+
+# Users Profile / http://demo.masdyn.com/profile/username.html
+RewriteRule ^profile/([a-zA-Z0-9^-]+).html$ profile.php?username=$1
+
+# Search / http://demo.masdyn.com/search/full+name/admin.html
+RewriteRule ^search/?$ search.php
+# Fixes not found error when users remove the search query from the seo friendly url (ex: http://demo.masdyn.com/search/full+name/)
+RewriteRule ^search/([a-zA-Z0-9^-^+]+)/?$ search.php
+# SEO Friendly Url
+RewriteRule ^search/([a-zA-Z0-9^-^+]+)/([a-zA-Z0-9^-^+]+).html$ search.php?category=$1&search=$2
