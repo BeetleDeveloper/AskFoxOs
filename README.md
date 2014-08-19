@@ -1,5 +1,4 @@
-###AskFoxOS
-=====================================================================
+#AskFoxOS
 “AskFoxOs” is an AJAX enhanced PHP script that allows your visitors to search through already asked questions, as well as asking their own question in a number of different categories created by the site owner. Registered users have the ability to create, rate and report answers to any question as well as the question its self.
 This script comes with an easy to use installer as well as a wide range of features for both your visitors and the site administrators, from reported posts to a developer API. A full list of these features can be found below. Please check out our demo to see all of the features for yourself.
 
@@ -58,12 +57,12 @@ Software Version	PHP 4.x, PHP 5.x, MySQL 4.x, MySQL 5.x
 - CRUD Questions and Answers
 - See All Reported Questions and Answers
 ======================================================================
-###Installation and Configuration
+#Installation and Configuration
 Please see the provided documentation on how to install and configure.
 ======================================================================
-###AskFoxOs jdlandazaball@gmail.com / forum.beeltedeveloper.tk / AskfoxOs.tk / descargasbeetle.tk
+#AskFoxOs jdlandazaball@gmail.com / forum.beeltedeveloper.tk / AskfoxOs.tk / descargasbeetle.tk
 ======================================================================
-###by
+#by
 =====================================================================
 
 ▒█▀▀█ █▀▀ █▀▀ ▀▀█▀▀ █░░ █▀▀ ▒█▀▀▄ █▀▀ ▀█░█▀ █▀▀ █░░ █▀▀█ █▀▀█ █▀▀ █▀▀█ ▒█▀▀▄ █▀▀ █▀▀ ░░█░░ █░░ █▀▀ ▒█░▒█ █▀▀ ░█▄█░ █▀▀ █░░ █░░█ █░░█ █▀▀ █▄▄▀ ▒█▄▄█ ▀▀▀ ▀▀▀ ░░▀░░ ▀▀▀ ▀▀▀ ▒█▄▄▀ ▀▀▀ ░░▀░░ ▀▀▀ ▀▀▀ ▀▀▀▀ █▀▀▀ ▀▀▀ ▀░▀▀
