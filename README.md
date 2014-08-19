@@ -54,10 +54,12 @@ Software Version	PHP 4.x, PHP 5.x, MySQL 4.x, MySQL 5.x
 - CRUD Categories
 - CRUD Questions and Answers
 - See All Reported Questions and Answers
+
 #Installation and Configuration
 Please see the provided documentation on how to install and configure.
+
 #Contact
-#AskFoxOs jdlandazaball@gmail.com / forum.beeltedeveloper.tk / AskfoxOs.tk / descargasbeetle.tk
+AskFoxOs jdlandazaball@gmail.com / forum.beeltedeveloper.tk / AskfoxOs.tk / descargasbeetle.tk
 ======================================================================
 #by
 =====================================================================
