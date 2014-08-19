@@ -60,10 +60,8 @@ Please see the provided documentation on how to install and configure.
 
 #Contact
 AskFoxOs jdlandazaball@gmail.com / forum.beeltedeveloper.tk / AskfoxOs.tk / descargasbeetle.tk
-======================================================================
-#by
-=====================================================================
 
+#by
 ▒█▀▀█ █▀▀ █▀▀ ▀▀█▀▀ █░░ █▀▀ ▒█▀▀▄ █▀▀ ▀█░█▀ █▀▀ █░░ █▀▀█ █▀▀█ █▀▀ █▀▀█ ▒█▀▀▄ █▀▀ █▀▀ ░░█░░ █░░ █▀▀ ▒█░▒█ █▀▀ ░█▄█░ █▀▀ █░░ █░░█ █░░█ █▀▀ █▄▄▀ ▒█▄▄█ ▀▀▀ ▀▀▀ ░░▀░░ ▀▀▀ ▀▀▀ ▒█▄▄▀ ▀▀▀ ░░▀░░ ▀▀▀ ▀▀▀ ▀▀▀▀ █▀▀▀ ▀▀▀ ▀░▀▀
 
 
